@@ -1,2 +1,2 @@
-# pdfProcess
-Get a feature that process pdf-files in a special way such as extract highlighted text, or images.
+Function that is able to process pdf-files in a special way such as extracting highlighted text, or images.
+
